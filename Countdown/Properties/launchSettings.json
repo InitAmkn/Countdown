@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Countdown": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
